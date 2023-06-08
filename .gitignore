@@ -1,3 +1,5 @@
 **/build/*
 **/target/*
 **/*.o
+**/*.exe
+**/*.out
